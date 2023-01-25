@@ -31,10 +31,7 @@
 
 
 <a href="https://refine.dev/blog/refine-hackathon/">
-<picture>
-
   <img alt="refine hackathon" src="https://user-images.githubusercontent.com/18739364/214559355-6d5326da-54da-45d6-9c3f-c5cf4588a434.png">
-</picture>
 </a>
 
 
