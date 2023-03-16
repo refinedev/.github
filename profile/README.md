@@ -30,8 +30,8 @@
 
 
 
-<a href="https://github.com/refinedev/refine/blob/master/hackathon/refine-hackathon.md">
-  <img alt="refine hackathon" src="https://user-images.githubusercontent.com/18739364/214559355-6d5326da-54da-45d6-9c3f-c5cf4588a434.png">
+<a href="https://refine.dev/docs/migration-guide/3x-to-4x/">
+  ![refine-v4](https://user-images.githubusercontent.com/1110414/225608688-87544f94-909b-4531-a523-77e36e422185.png)
 </a>
 
 
