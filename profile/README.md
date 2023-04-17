@@ -28,21 +28,6 @@
 
 <a href="https://www.producthunt.com/posts/refine-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-refine&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=362220&theme=light&period=daily" alt="refine - 100&#0037;&#0032;open&#0032;source&#0032;React&#0032;framework&#0032;to&#0032;build&#0032;web&#0032;apps&#0032;3x&#0032;faster | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-
-
-<a href="https://refine.dev/docs/migration-guide/3x-to-4x/">
-  <img src="https://user-images.githubusercontent.com/1110414/225608688-87544f94-909b-4531-a523-77e36e422185.png" />
-</a>
-
-
-
-<a href="https://refine.dev/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1110414/197984957-639630c1-03e9-4e18-9a57-63de81124fbd.png">
-  <img alt="how-works-refine" src="https://user-images.githubusercontent.com/1110414/197965247-f91f4a0c-f901-4775-b072-abfa736b6e67.png">
-</picture>
-</a>
-
 ## Try refine online
 
 
@@ -62,3 +47,12 @@ You have the ability to preview, modify, and download your project immediately, 
 <a href="https://s.refine.dev/refine-new-github" target="_blank">
 <img src="https://user-images.githubusercontent.com/18739364/231501815-295deedd-cbee-4b90-80dc-12116ee53274.gif"   style="width:700px;"  />
 </a>
+
+<a href="https://refine.dev/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1110414/197984957-639630c1-03e9-4e18-9a57-63de81124fbd.png">
+  <img alt="how-works-refine" src="https://user-images.githubusercontent.com/1110414/197965247-f91f4a0c-f901-4775-b072-abfa736b6e67.png">
+</picture>
+</a>
+
+
