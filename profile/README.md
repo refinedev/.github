@@ -30,14 +30,24 @@
 
 [![cover-image](https://refine.ams3.cdn.digitaloceanspaces.com/hackathon-2/hackathon_cover.png)](https://s.refine.dev/hackathon2)
 
+<br/>
+<a href="https://refine.dev/">
+<picture>
+
+  <img alt="how-refine-works" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/how-refine-works.jpeg">
+</picture>
+</a>
+
+<br/>
+<br/>
+
 ## Try refine online
 
 
 
-<a href="https://s.refine.dev/refine-new-github">
-<img src="https://user-images.githubusercontent.com/18739364/231496370-8c2accd3-321f-4ed5-9763-7ecae95c4600.png">
+<a  href="https://s.refine.dev/refine-new-github">
+<img src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine.new.png"  style="width:300px;">
 </a>
-
 <br/>
 <br/>
 
@@ -50,11 +60,7 @@ You have the ability to preview, modify, and download your project immediately, 
 <img src="https://user-images.githubusercontent.com/18739364/231501815-295deedd-cbee-4b90-80dc-12116ee53274.gif"   style="width:700px;"  />
 </a>
 
-<a href="https://refine.dev/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1110414/197984957-639630c1-03e9-4e18-9a57-63de81124fbd.png">
-  <img alt="how-works-refine" src="https://user-images.githubusercontent.com/1110414/197965247-f91f4a0c-f901-4775-b072-abfa736b6e67.png">
-</picture>
-</a>
+
+
 
 
