@@ -32,10 +32,10 @@
 
 <br/>
 <a href="https://refine.dev/">
-<picture>
+
 
   <img alt="how-refine-works" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/how-refine-works.jpeg">
-</picture>
+
 </a>
 
 <br/>
