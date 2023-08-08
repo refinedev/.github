@@ -28,8 +28,6 @@
 
 <a href="https://www.producthunt.com/posts/refine-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-refine&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=362220&theme=light&period=daily" alt="refine - 100&#0037;&#0032;open&#0032;source&#0032;React&#0032;framework&#0032;to&#0032;build&#0032;web&#0032;apps&#0032;3x&#0032;faster | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
-[![cover-image](https://refine.ams3.cdn.digitaloceanspaces.com/hackathon-2/hackathon_cover.png)](https://s.refine.dev/hackathon2)
-
 <br/>
 <a href="https://refine.dev/">
 
@@ -41,16 +39,7 @@
 <br/>
 <br/>
 
-## Try refine online
-
-
-
-<a  href="https://s.refine.dev/refine-new-github">
-<img src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine.new.png"  style="width:300px;">
-</a>
-<br/>
-<br/>
-
+## Try refine
  [refine.new](https://s.refine.dev/refine-new-github) is a powerful open-source browser tool that lets you create refine apps. 
 
 You have the ability to preview, modify, and download your project immediately, thereby streamlining the development process.  
